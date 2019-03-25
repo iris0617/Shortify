@@ -1,0 +1,11 @@
+nav {
+  color: black;
+  font-size: 40px;
+}
+.brand-logo {
+  text-align: center;
+}
+.nav-wrapper {
+  background-color: white !important;
+  color: black !important;
+}
